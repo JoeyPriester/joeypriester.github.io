@@ -1,8 +1,7 @@
 ## Welcome to Joey's page! Now get out!
 
-You can use the [editor on GitHub](https://github.com/JoeyPriester/joeypriester.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
 About Me
+27 year young college senior with 4 kids and one on the way. Life is a challege only if you let it.
 
 ```markdown
 School History
