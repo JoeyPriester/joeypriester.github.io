@@ -12,7 +12,7 @@ And 3 different schools
 Never stopped working
 
 ```
-![image](https://github.com/JoeyPriester/joeypriester.github.io/blob/master/lemon01-lg.jpg)
+![image](master/lemon01-lg.jpg)
 ### Sour
 When life throws you lemons throw them back. I would have never made it this far if I stopped to make lemonade.
 
