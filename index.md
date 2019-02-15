@@ -2,8 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/JoeyPriester/joeypriester.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 About Me
 
 ```markdown
@@ -14,12 +12,10 @@ After 9 years
 And 3 different schools
 Never stopped working
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+When life throws you lemons throw them back. I would have never made it this far if I stopped to make lemonade.
+
 
 ### Jekyll Themes
 
